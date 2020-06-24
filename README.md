@@ -6,11 +6,6 @@
 
  使用方法：
  1. 讲浏览器路径换成自己的浏览器绝对路径
- `<addr>`chrome_driver_path = "C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe"
- 
- I think you should use an
-`<C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe>` element here instead.
-
-
+ `<chrome_driver_path = "C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe">`
  
  2. 工具开发基于技术锻炼没有做到充分屏蔽检测，可以自己定制自己开发
