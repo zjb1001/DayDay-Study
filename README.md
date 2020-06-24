@@ -8,4 +8,4 @@
  1. 浏览器路径换成自己的浏览器绝对路径
  `<chrome_driver_path = "C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe">`
  
- 2. 工具开发基于技术锻炼没有做到充分屏蔽检测，可以自己x需求定制自己开发
+ 2. 工具开发基于技术锻炼没有做到充分屏蔽检测，可以自己需求定制自己开发
