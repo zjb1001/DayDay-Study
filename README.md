@@ -9,7 +9,7 @@
  `<addr>`chrome_driver_path = "C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe"
  
  I think you should use an
-`<addr>` element here instead.
+`<C:\\Users\XXX...XXX\AppData\Local\Google\Chrome\Application" + "\chromedriver.exe>` element here instead.
 
 
  
